@@ -16,10 +16,6 @@
 
 Senior Fullstack Engineer with 12 years of experience at top-tier companies like **Google**, **Goldman Sachs**, and **IBM Consulting**. I specialize in blockchain technology, AI/ML solutions, and building scalable applications that solve complex business problems.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enio-nava&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats">
-</div>
-
 ## 🔥 Expertise
 
 <div align="center">
@@ -88,6 +84,12 @@ Senior Fullstack Engineer with 12 years of experience at top-tier companies like
 ## 📫 Let's Connect
 
 I'm always interested in challenging projects and opportunities to collaborate on innovative solutions. Feel free to reach out!
+
+<div align="center">
+  <a href="https://github.com/enio-nava?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20Out-My%20Repositories-brightgreen?style=for-the-badge&logo=github" alt="My Repositories">
+  </a>
+</div>
 
 ---
 
